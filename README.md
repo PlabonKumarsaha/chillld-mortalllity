@@ -31,3 +31,7 @@ Repository descippton :
 |Gestational weeks|<p>Its Nominal Categorical integer are show’s </p><p>1 means Less than 22 weeks, 2 means 22 to 27 weeks, 3 means 28 to 31 weeks, 4 means 32 to 36 weeks, 5 means 37 to 41 weeks, 6 means 42 weeks and more, 9 means Ignored. </p>|
 |Death within 28 days|<p>Its Nominal Categorical integer are show’s </p><p>0 means survivor, 1 means dead. </p>|
 
+
+![image](https://user-images.githubusercontent.com/46686524/193073164-64a79ff3-2559-4588-835b-5496073f75a6.png)
+
+
