@@ -1,4 +1,6 @@
 Repository descippton : 
+
+The details of the paper are given in an additional source. All the machine learning, learning codes and data set are segregated properly. Each algorithm is implemnetd on separate jupyter notebook file. In the read me section of the repository, the data set descrition are given as well. Meaning of each column are brifed.
 1. Data-set : csv file to store the data
 2. deep learnng:
 3. machiine learning
